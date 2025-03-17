@@ -1,2 +1,1 @@
-/api/bookings/
-/api/registration/
+Capston Project
